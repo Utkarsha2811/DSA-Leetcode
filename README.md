@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0299-bulls-and-cows](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -44,4 +45,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0299-bulls-and-cows](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0299-bulls-and-cows](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 <!---LeetCode Topics End-->
