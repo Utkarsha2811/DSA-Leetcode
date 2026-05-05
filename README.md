@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -35,11 +36,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
