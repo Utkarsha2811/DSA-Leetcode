@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0213-house-robber-ii/) | Medium |
@@ -61,5 +62,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
