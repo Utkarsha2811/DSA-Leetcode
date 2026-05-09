@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0217-contains-duplicate](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0217-contains-duplicate](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0299-bulls-and-cows](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0819-most-common-word](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0819-most-common-word/) | Easy |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0016-3sum-closest/) | Medium |
+| [0217-contains-duplicate](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## String
 | Problem Name | Difficulty |
