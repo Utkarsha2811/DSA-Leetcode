@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0819-most-common-word](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0819-most-common-word/) | Easy |
 ## Stack
@@ -74,11 +75,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0819-most-common-word](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0819-most-common-word/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0299-bulls-and-cows](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0819-most-common-word](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0819-most-common-word/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -98,4 +101,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
