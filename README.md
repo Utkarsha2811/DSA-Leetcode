@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0016-3sum-closest/) | Medium |
+| [0039-combination-sum](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0090-subsets-ii/) | Medium |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0090-subsets-ii/) | Medium |
