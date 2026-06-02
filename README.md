@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0039-combination-sum](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0046-permutations/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -146,4 +148,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0155-min-stack/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
