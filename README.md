@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0520-detect-capital](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0567-permutation-in-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0709-to-lower-case](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0819-most-common-word](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0819-most-common-word/) | Easy |
