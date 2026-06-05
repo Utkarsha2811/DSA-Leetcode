@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0819-most-common-word](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0819-most-common-word/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2129-capitalize-the-title](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/2129-capitalize-the-title/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
