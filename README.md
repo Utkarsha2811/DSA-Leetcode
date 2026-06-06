@@ -168,5 +168,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0707-design-linked-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
