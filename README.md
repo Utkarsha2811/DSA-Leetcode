@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0707-design-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
