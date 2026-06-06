@@ -160,8 +160,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0707-design-linked-list](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0707-design-linked-list/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
