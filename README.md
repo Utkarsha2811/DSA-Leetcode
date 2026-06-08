@@ -181,4 +181,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [2652-sum-multiples](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/2652-sum-multiples/) | Easy |
 <!---LeetCode Topics End-->
