@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/2652-sum-multiples/) | Easy |
 ## Tree
