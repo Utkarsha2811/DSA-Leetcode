@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
