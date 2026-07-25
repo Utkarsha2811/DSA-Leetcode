@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0018-4sum/) | Medium |
+| [0075-sort-colors](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
