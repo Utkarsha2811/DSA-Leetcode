@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0018-4sum/) | Medium |
+| [0031-next-permutation](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0046-permutations/) | Medium |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0018-4sum/) | Medium |
+| [0031-next-permutation](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
