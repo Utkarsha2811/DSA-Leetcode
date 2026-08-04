@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0018-4sum/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -282,4 +284,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
