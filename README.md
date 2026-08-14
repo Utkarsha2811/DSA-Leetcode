@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0399-evaluate-division](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0547-number-of-provinces/) | Medium |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0399-evaluate-division](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0547-number-of-provinces/) | Medium |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0399-evaluate-division](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0547-number-of-provinces/) | Medium |
@@ -350,5 +353,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
