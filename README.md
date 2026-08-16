@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0707-design-linked-list](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0707-design-linked-list/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0264-ugly-number-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -366,4 +370,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0207-course-schedule/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
