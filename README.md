@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0509-fibonacci-number](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0509-fibonacci-number](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/2652-sum-multiples/) | Easy |
 ## Tree
@@ -381,4 +384,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
