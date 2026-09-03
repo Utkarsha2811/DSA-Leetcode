@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0090-subsets-ii/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0079-word-search](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0079-word-search/) | Medium |
 | [0242-valid-anagram](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0344-reverse-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -230,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -268,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
