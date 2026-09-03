@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0819-most-common-word](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0819-most-common-word/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0994-rotting-oranges](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0994-rotting-oranges](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Heap (Priority Queue)
