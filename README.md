@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Heap (Priority Queue)
