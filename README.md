@@ -423,4 +423,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
