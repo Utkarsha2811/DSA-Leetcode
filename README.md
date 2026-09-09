@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0213-house-robber-ii/) | Medium |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
