@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0399-evaluate-division](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -446,4 +449,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
