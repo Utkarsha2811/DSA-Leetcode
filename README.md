@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0506-relative-ranks](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
