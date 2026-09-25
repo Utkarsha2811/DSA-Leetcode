@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0218-the-skyline-problem](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0322-coin-change](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0399-evaluate-division](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0322-coin-change](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -375,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0322-coin-change](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0399-evaluate-division](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0547-number-of-provinces](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0547-number-of-provinces/) | Medium |
@@ -482,4 +485,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
