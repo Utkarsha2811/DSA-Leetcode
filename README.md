@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0218-the-skyline-problem](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0399-evaluate-division](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0399-evaluate-division/) | Medium |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0268-missing-number](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0299-bulls-and-cows](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -150,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0218-the-skyline-problem](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0242-valid-anagram](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0506-relative-ranks](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -248,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0268-missing-number](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -289,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0268-missing-number](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/2652-sum-multiples/) | Easy |
