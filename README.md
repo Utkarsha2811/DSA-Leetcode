@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0819-most-common-word](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0819-most-common-word/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0819-most-common-word](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/0819-most-common-word/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2129-capitalize-the-title](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/2129-capitalize-the-title/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Utkarsha2811/DSA-Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
